@@ -1,4 +1,4 @@
-CASH Music UX planning
+#CASH Music UX planning
 
 UX plans, mock-ups, and sketches — used for platform buildout. Most of the planning 
 starts on paper the moves to quick prototypes, or occasionally turns into a mockup if 
